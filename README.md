@@ -1,4 +1,5 @@
 🔗 **Dashboard Link**: [Click here to open](https://ea1e-34-41-196-197.ngrok-free.app/)
+🔗 **Colab Link**: [Click here to open](https://colab.research.google.com/drive/1kH4veN-BoyEynGmZcrta_57T4KOncT27)
 
 ### Project Overview - 
      This project uses real-time weather data from the OpenWeatherMap API and applies Machine Learning to predict future temperatures. 
